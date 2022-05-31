@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo echo "hello $(id -un)"
+echo "hello $USER"
